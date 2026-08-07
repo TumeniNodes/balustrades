@@ -17,3 +17,7 @@ You can find all the posts & balusters (railings) inside your Creative Mode inve
 If you are playing in Survival Mode, you can make them using standard crafting recipes with your choice of wood or stone materials, ..or add materials from your favorite mods.
 
 ![Balustrade Screenshot](Screenshot_01.png)
+
+![Balustrade Screenshot](Screenshot_02.png)
+
+![Balustrade Screenshot](Screenshot_03.png)
