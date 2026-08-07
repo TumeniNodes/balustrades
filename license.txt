@@ -27,7 +27,14 @@ SOFTWARE.
 
 Media (Textures, Models & Sounds) License: CC BY-SA 4.0
 -------------------------------------------------------
-Only if listed below:
+As listed below:
+
+Copyright (C) 2015-2026 TumeniNodes
+- baluster.obj
+- stair_baluster.obj
+- stair_baluster.obj
+- stair_baluster_lower.obj
+- stair_baluster_upper.obj
 
 This work is licensed under the Creative Commons Attribution-ShareAlike 4.0 
 International License. To view a copy of this license, visit:
