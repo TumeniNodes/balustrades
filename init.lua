@@ -1,5 +1,5 @@
 balustrade = {}
--- [MOD]Balustrade[mod]balustrade [Ver. 0.4.]
+-- [MOD]Balustrade[mod]balustrade [Ver. 0.5.]
 -- Copyright (C) 2026 TumeniNodes
 
    ----------
