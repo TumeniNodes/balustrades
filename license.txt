@@ -35,8 +35,11 @@ Copyright (C) 2015-2026 TumeniNodes
 - stair_baluster.obj
 - stair_baluster_lower.obj
 - stair_baluster_upper.obj
+- balustrade_gate_closed.obj
+- balustrade_gate_half.obj
+- balustrade_gate_open.obj
 
-This work is licensed under the Creative Commons Attribution-ShareAlike 4.0 
+This work is licensed under the Creative Commons Attribution-ShareAlike 4.0
 International License. To view a copy of this license, visit:
 http://creativecommons.org
 
